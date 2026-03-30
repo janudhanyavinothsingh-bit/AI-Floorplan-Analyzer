@@ -1,5 +1,5 @@
 ## AI Floor Plan Analyzer
-Professional Internship Project | March 2026
+Python Internship Project | March 2026
 
 ## Live Demo:
 https://ai-floorplan-analyzer-wzzlz2o4pd3gc22vmcgcjn.streamlit.app/
