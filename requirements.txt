@@ -1,12 +1,20 @@
+# Visualization
 altair==4.2.2
 vega-datasets==0.9.0
-numpy==1.26.4
-pandas==3.0.1
-matplotlib==3.10.8
-scikit-learn==1.8.0
-pillow==12.1.1
+matplotlib==3.7.2
+
+# Core packages
+numpy==1.25.2
+pandas==2.0.3
+scikit-learn==1.2.2
+Pillow==9.5.0
 opencv-python-headless==4.7.0.72
-streamlit==1.19.0
-torch==2.11.0
-transformers==5.4.0
-pytesseract==0.3.13
+
+# Streamlit
+streamlit==1.25.0
+
+# Optional AI/ML packages (only if you really need them)
+# torch and transformers often fail on Streamlit Cloud
+# torch==2.11.0
+# transformers==5.4.0
+# pytesseract==0.3.13s
