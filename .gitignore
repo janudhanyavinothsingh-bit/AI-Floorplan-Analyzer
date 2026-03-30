@@ -1,3 +1,10 @@
+# Ignore virtual environments
+.venv/
+.venv1/
+
+# Ignore PyCharm config files
+.idea/
+*.iml
 __pycache__/
 *.pyc
 .env
