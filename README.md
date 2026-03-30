@@ -7,6 +7,7 @@ https://ai-floorplan-analyzer-wzzlz2o4pd3gc22vmcgcjn.streamlit.app/
 
 ## Project Overview
 AI Floor Plan Analyzer is a computer vision–based web app that automatically detects and classifies rooms from floor plan images.
+	
 	•	Identifies room regions
 	•	Classifies spaces based on size
 	•	Generates visual and analytical outputs
